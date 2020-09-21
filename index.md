@@ -7,8 +7,7 @@
 
 ## [My Log](TXT/mylog.txt)
 <br>
-<hr>
-<br>
+
 ## Operating Systems Weekly Top Ten List
 - [Week 00](w00)
 
