@@ -1,5 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 90 L02 Zoom
-ZCZC W00 5 L03 Creating new repo and setup
+ZCZC W00 90  L02 Zoom
+ZCZC W00 5   L03 Creating new repo and setup
+ZCZC W00 105 L05 Googling
+ZCZC W00 10  L04 Setting up github pages
+ZCZC W00 5   L03 Writing the logs
+
