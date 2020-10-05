@@ -17,3 +17,13 @@ ZCZC W01 10  L15 Copy folder from badak to osp
 ZCZC W01 30  L04 Setting github on local and cloning
 ZCZC W01 10  L17 Updating Log
 ZCZC W01 90  L05 Googling
+ZCZC W02 90  L02 Zoom 
+ZCZC W02 30  L11 Reading chapter 16 and 17
+ZCZC W02 15  L12 Generate key pair
+ZCZC W02 10  L13 Import os key
+ZCZC W02 30  L14 Exporting public key
+ZCZC W02 60  L15 Reviewing top 3 for week 0 and week 1
+ZCZC W02 90  L16 Googling for top 10 list of week 2
+ZCZC W02 5   L17 Writing myscript.sh
+ZCZC W02 20  L18 Updating log
+ZCZC W02 15  L19 Make SHA256SUM and SHA256SUM.asc
