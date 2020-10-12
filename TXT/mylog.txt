@@ -27,3 +27,14 @@ ZCZC W02 90  L16 Googling for top 10 list of week 2
 ZCZC W02 5   L17 Writing myscript.sh
 ZCZC W02 20  L18 Updating log
 ZCZC W02 15  L19 Make SHA256SUM and SHA256SUM.asc
+ZCZC W03 100 L02 Zoom
+ZCZC W03 90  L11 Reading and googling chapter 13, 14, 15
+ZCZC W03 30  L07 Installing MingW and Addons for vscode
+ZCZC W03 15  L12 Trying to run demo codes
+ZCZC W03 10  L13 Updating bash_aliases
+ZCZC W03 10  L14 Reviewing for top 3 rank of week 2
+ZCZC W03 30  L15 Writing top 10 list week 3
+ZCZC W03 5   L16 Running chtoken
+ZCZC W03 15  L17 downloading necessary library and writing disk usage
+ZCZC W03 30  L18 Writing log
+ZCZC W03 10  L20 Sign SHA256SUM
