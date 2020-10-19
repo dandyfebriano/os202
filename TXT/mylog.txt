@@ -38,3 +38,11 @@ ZCZC W03 5   L16 Running chtoken
 ZCZC W03 15  L17 downloading necessary library and writing disk usage
 ZCZC W03 30  L18 Writing log
 ZCZC W03 10  L20 Sign SHA256SUM
+ZCZC W04 100 L02 Zoom
+ZCZC W04 60  L11 Reading and googling chapter 9
+ZCZC W04 15  L13 Visiting github links and make top 3 list
+ZCZC W04 30  L14 Making top 10 list off week 4
+ZCZC W04 10  L15 Running chtoken 
+ZCZC W04 30  L16 Downloading, extracting and running c codes
+ZCZC W04 10  L17 Updating log for week 4
+ZCZC W04 10  L19 Sign SHA256SUM
