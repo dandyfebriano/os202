@@ -6,6 +6,7 @@ ZCZC W00 5   L03 Creating new repo and setup
 ZCZC W00 105 L05 Googling
 ZCZC W00 10  L04 Setting up github pages
 ZCZC W00 5   L03 Writing the logs
+
 ZCZC W01 90  L02 Zoom
 ZCZC W01 15  L10 Installing VM Virtual Box
 ZCZC W01 15  L11 Create Debian Guest
@@ -17,6 +18,7 @@ ZCZC W01 10  L15 Copy folder from badak to osp
 ZCZC W01 30  L04 Setting github on local and cloning
 ZCZC W01 10  L17 Updating Log
 ZCZC W01 90  L05 Googling
+
 ZCZC W02 90  L02 Zoom 
 ZCZC W02 30  L11 Reading chapter 16 and 17
 ZCZC W02 15  L12 Generate key pair
@@ -27,6 +29,7 @@ ZCZC W02 90  L16 Googling for top 10 list of week 2
 ZCZC W02 5   L17 Writing myscript.sh
 ZCZC W02 20  L18 Updating log
 ZCZC W02 15  L19 Make SHA256SUM and SHA256SUM.asc
+
 ZCZC W03 100 L02 Zoom
 ZCZC W03 90  L11 Reading and googling chapter 13, 14, 15
 ZCZC W03 30  L07 Installing MingW and Addons for vscode
@@ -38,11 +41,22 @@ ZCZC W03 5   L16 Running chtoken
 ZCZC W03 15  L17 downloading necessary library and writing disk usage
 ZCZC W03 30  L18 Writing log
 ZCZC W03 10  L20 Sign SHA256SUM
+
 ZCZC W04 100 L02 Zoom
 ZCZC W04 60  L11 Reading and googling chapter 9
 ZCZC W04 15  L13 Visiting github links and make top 3 list
-ZCZC W04 30  L14 Making top 10 list off week 4
+ZCZC W04 30  L14 Making top 10 list off week 3
 ZCZC W04 10  L15 Running chtoken 
 ZCZC W04 30  L16 Downloading, extracting and running c codes
 ZCZC W04 10  L17 Updating log for week 4
 ZCZC W04 10  L19 Sign SHA256SUM
+
+ZCZC W05 100 L02 Zoom
+ZCZC W05 30  L11 Reading and googling chapter 9
+ZCZC W05 15  L13 Making to 10 list of week 4
+ZCZC W05 30  L14 Making top 10 list
+ZCZC W05 10  L15 Running chktoken
+ZCZC W05 15  L16 Downloading and running W05 program
+ZCZC W05 10  L17 Updating log
+ZCZC W05 5   L19 Sign SHA256SUM
+
