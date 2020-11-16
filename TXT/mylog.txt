@@ -60,3 +60,16 @@ ZCZC W05 15  L16 Downloading and running W05 program
 ZCZC W05 10  L17 Updating log
 ZCZC W05 5   L19 Sign SHA256SUM
 
+ZCZC W06 100 L02 Zoom
+ZCZC W06 30  L11 Reading and googling chapter 3 and 4
+ZCZC W06 15  L13 Making top 3 list of week 5
+ZCZC W06 30  L14 Making top 10 list
+ZCZC W06 10  L15 Running chktoken
+ZCZC W06 15  L16 Coding and running W06 program
+ZCZC W06 10  L17 Updating log
+ZCZC W06 5   L19 Sign SHA256SUM
+ZCZC W06 5   L20 Make clean W06 folder
+ZCZC W06 5   L21 encrypt myW06
+
+
+
