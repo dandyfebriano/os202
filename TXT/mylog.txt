@@ -81,5 +81,12 @@ ZCZC W07 5   L19 Sign SHA256SUM
 ZCZC W07 5   L20 Make clean W07 folder
 ZCZC W07 5   L21 encrypt myW07
 
+ZCZC W08 90  L11 Reading and googling chapter 5
+ZCZC W08 15  L13 Making top 3 list of week 7
+ZCZC W08 60  L14 Making top 10 list
+ZCZC W08 10  L15 Running chktoken
+ZCZC W08 10  L17 Updating log
+ZCZC W08 5   L19 Sign SHA256SUM
+
 
 
